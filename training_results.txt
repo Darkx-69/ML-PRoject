@@ -1,0 +1,15 @@
+Successfully loaded 'train.csv'.
+
+Starting the clustering process...
+Clustering complete. Houses have been assigned to categories.
+Cluster descriptions saved to 'data_descriptions.json'.
+Average lot areas saved to 'avg_lot_areas.json'.
+
+Training the final price prediction model...
+Model training complete.
+
+Model Evaluation:
+Root Mean Squared Error (RMSE): $29,626.78
+
+Model saved to 'category_based_predictor.pkl'.
+Processed DataFrame saved to 'processed_data.pkl'.
