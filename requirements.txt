@@ -3,6 +3,6 @@ Werkzeug
 pandas
 joblib
 scikit-learn
-xgboost
+xgboost==1.7.6
 numpy
 gunicorn
