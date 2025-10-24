@@ -1,10 +1,8 @@
-Flask==3.1.0
-Werkzeug==3.1.3
+Flask
+Werkzeug
 pandas
 joblib
 scikit-learn
 xgboost
 numpy
-matplotlib
-seaborn
 gunicorn
