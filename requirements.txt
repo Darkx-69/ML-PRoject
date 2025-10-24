@@ -1,0 +1,10 @@
+Flask==3.1.0
+Werkzeug==3.1.3
+pandas
+joblib
+scikit-learn
+xgboost
+numpy
+matplotlib
+seaborn
+gunicorn
